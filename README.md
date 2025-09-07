@@ -1,4 +1,4 @@
-# Smart Subdomain Validator (SSV) — Enterprise v1.6.2
+# Smart Subdomain Validator (SSV) 
 **created by xiamsec**
 
 > Enterprise‑grade subdomain reconnaissance and validation — one command, full workflow.
